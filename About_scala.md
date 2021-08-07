@@ -1,4 +1,4 @@
-Scala:
+# Scala:
 created by Martin Odersky and promoted by TypeSafe Company
 
 ## Benefits:
