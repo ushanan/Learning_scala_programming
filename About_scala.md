@@ -7,8 +7,8 @@ does not have boiler plate code(repetition of code)
 Concurrency: octa cores will be efficiently used
 Used in Bigdata along with hadoop and spark framework.
 
-## What is unit type in scala?
-This defines function which does not return data (similar to void in java)
+## What is Unit type in scala?
+Unit is a return type in scala  which defines the function that does not return any data (similar to void in java)
 
 ```scala
 def main ( args : Array[String] ) : Unit ={}  
