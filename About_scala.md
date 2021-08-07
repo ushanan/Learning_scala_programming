@@ -22,5 +22,9 @@ def main ( args : Array[String] ) : Unit ={}
 - within SBT build file : dependency - maven repository for spark core - for spark and scala version (2.3.0,2.11.11)
 - Build again
 
-What is SBT ? scala build tool or simple build tool . It is a build tool like maven .
-Use of SBT : used to compile ,test,package
+## What is SBT ? 
+* scala build tool or simple build tool . 
+* It is a build tool like maven .
+
+## Use of SBT : 
+* used to compile ,test,package
