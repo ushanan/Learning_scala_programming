@@ -6,3 +6,7 @@ Scalable - OOP and functional programming
 does not have boiler plate code(repetition of code)
 Concurrency: octa cores will be efficiently used
 Used in Bigdata along with hadoop and spark framework.
+
+What is unit type in scala?
+This defines function which does not return data (similar to void in java)
+def main ( args : Array[String] ) : Unit ={}
