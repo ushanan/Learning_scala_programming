@@ -9,7 +9,7 @@ Used in Bigdata along with hadoop and spark framework.
 
 ## What is unit type in scala?
 This defines function which does not return data (similar to void in java)
-` def main ( args : Array[String] ) : Unit ={} `
+`` def main ( args : Array[String] ) : Unit ={}  ``
 
 ## Steps to be followed for setting up spark proj in Intellij using scala
 - SBT or maven
