@@ -1,7 +1,7 @@
 Scala:
 created by Martin Odersky and promoted by TypeSafe Company
 
-Benefits:
+## Benefits:
 Scalable - OOP and functional programming
 does not have boiler plate code(repetition of code)
 Concurrency: octa cores will be efficiently used
