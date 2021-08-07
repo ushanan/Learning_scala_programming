@@ -28,3 +28,6 @@ def main ( args : Array[String] ) : Unit ={}
 
 ## Use of SBT : 
 * used to compile ,test,package
+
+## Way to use SBT 
+ through cmd prompt or intellij
